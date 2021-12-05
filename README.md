@@ -4,7 +4,7 @@
 <link rel = "icon" href = 
        "file:///C:/Users/asree/OneDrive/Pictures/Saved%20Pictures/OIP%20(2).jpeg">
 </head>
-<body style= "background-repeat: no-repeat;background-size: 100% 100%" background="file:///C:/Users/asree/OneDrive/Pictures/Saved%20Pictures/bg-04.jpg" text="#00ffff">
+<body style= "background-repeat: no-repeat;background-size: 100% 100%" background="file:///C:/Users/asree/OneDrive/Pictures/Saved%20Pictures/space%20painting.png" text="#00ffff">
 <div style="border: 4px solid purple"> <h1 align="center"> <span style="color:maroon"> Hi, I'm SREEHAN!! </span> </h1> </div>
 <span style ="color:teal"> <h2> <center> Welcome to my website! </center> </h2> </span>
 <hr size="10">
@@ -13,6 +13,9 @@
 <h2> <center> <span style="color:green"> I am also a hacker! Not the hacker who hacks computers, just games! </span> </center> </h2>
 <p>
 <h2> <center> <span style="color:purple"> 'Just games' means I play modded games like modded minecraft, my favourite game. </span> </center> </h2>
+<h2> <center> <span style="color:orchid"> In that game, it mostly looks kink of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the below image </span> </center> </h2>
+<center> <img src="file:///C:/Users/asree/OneDrive/Pictures/Saved%20Pictures/OIP.jpg" width="500" height="333"> </center>
+<center> <font size="12"> &#128525 &#128526 </font> </center>
 <h2> <center> <span style="color:yellow"> Second favourite game is Blockman go_Bed-Wars, it is very fun to play as it is available in phones </span> </center> </h2>
 <p>
 <h2> <center> My faourite thing is Space!!! There are so many thing and so much to discover it. </center> </h2>
@@ -31,3 +34,4 @@
 <h1 align="center"> Thank you!! </h1>
 </body>
 </html>      
+ 
