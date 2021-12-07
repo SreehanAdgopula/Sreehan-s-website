@@ -8,7 +8,7 @@
 <div style="border: 4px solid purple"> <h1 align="center"> <span style="color:maroon"> Hi, I'm SREEHAN!! </span> </h1> </div>
 <span style ="color:teal"> <h2> <center> Welcome to my website! </center> </h2> </span>
 <hr size="10">
-<h2 align="center"> <span style="color:red"> I'm a programmer and Hacker! </span> </h2><center> <font size ="12"> &#128520;</font> </center>
+<h2 align="center"> <span style="color:red"> I'm a programmer and Hacker! </span> </h2><center> <font size ="12"> &#128520;</font></h2>
 <h2> <center> <span style="color:orange"> I do programming like Python, QBASIC, HTML etc. </span> </h2> </center>
 <h2> <center> <span style="color:green"> I am also a hacker! Not the hacker who hacks computers, just games! </span> </center> </h2>
 <p>
