@@ -18,7 +18,7 @@
 <center> <font size="12"> &#128525 &#128526 </font> </center>
 <h2> <center> <span style="color:yellow"> Second favourite game is Blockman go_Bed-Wars, it is very fun to play as it is available in phones </span> </center> </h2>
 <p>
-<h2> <center> My faourite thing is Space!!! There are so many thing and so much to discover it. </center> </h2>
+<h2> <center> My favourite thing is Space!!! There are so many thing and so much to discover it. </center> </h2>
 <h2> <center> <span style="color:pink"> It is my favourite subject! I know billions of thing that are in space like Gamma Rays, Super and Hyper-novas; Oort Cloud, Space wars, etc! </span> </center> </h2>
 <h2> <center> <span style="color:white"> That's why the theme is Space  !! </span> </center> </h2> <center> <font size="9">&#128516 &#128512; </font> </center>
 <hr noshade size="9"
