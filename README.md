@@ -1,10 +1,10 @@
 <html>           
 <head>
-<title> Sreehan's website!!</title>   
+   
 <link rel = "icon" href = 
-       "file:///C:/Users/asree/OneDrive/Pictures/Saved%20Pictures/OIP%20(2).jpeg">
+       "ok.jpeg">
 </head>
-<body style= "background-repeat: no-repeat;background-size: 100% 100%" background="file:///C:/Users/asree/OneDrive/Pictures/Saved%20Pictures/space%20painting.png" text="#00ffff">
+<body style= "background-repeat: no-repeat;background-size: 100% 100%" background="hd.jpg" text="#00ffff">
 <div style="border: 4px solid purple"> <h1 align="center"> <span style="color:maroon"> Hi, I'm SREEHAN!! </span> </h1> </div>
 <span style ="color:teal"> <h2> <center> Welcome to my website! </center> </h2> </span>
 
