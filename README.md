@@ -22,8 +22,7 @@
 <h2> <center> <span style="color:pink"> It is my favourite subject! I know billions of thing that are in space like Gamma Rays, Super and Hyper-novas; Oort Cloud, Space wars, etc! </span> </center> </h2>
 <h2> <center> <span style="color:white"> That's why the theme is Space  !! </span> </center> </h2> <center> <font size="9">&#128516 &#128512; </font> </center>
 <hr noshade size="9"
-<center> <div class="contact-me">
-            <h2>Get In Touch</h2>                                                                                                                                       
+<center> <div class="contact-me">                                                                                                                                      
             <h3 class="contact-title">Do you want to chat to me? Okay, fine, here it is!</h3>
             <p class="contact-message">Email here!</p>
             <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a> 
