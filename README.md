@@ -31,18 +31,7 @@
           </div> </center>
 <hr align="center" size="6" width="90%" Color="yellow">
  <span style="color:blue"> <h2> <center> A fun fact!=In another billion years, our Milky Way will collide with the Andromeda Galaxy and form (Andro-Way) or (Milkymeda)!?!? </center> </h2> </span> 
-<center> <svg height="200" width="500">
-  <defs>
-    <linearGradient id="grad1" x1="10%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"
-      style="stop-color:rgb(255,255,0);stop-opacity:1" />
-      <stop offset="100%"
-      style="stop-color:rgb(255,0,0);stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <ellipse cx="100" cy="70" rx="85" ry="55" fill="url(#grad1)" />
-  <text fill="#ffffff" font-size="35" font-family="Verdana"
-  x="50" y="80">THANK YOU</text>
+<h1> <center> Thank You </center> </h1>
 </body>
 </html>      
  
