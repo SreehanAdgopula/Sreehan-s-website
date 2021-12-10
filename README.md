@@ -1,6 +1,6 @@
 <html>           
 <head>  
-<link rel="icon" href="2.jpeg">
+ <link rel="icon" type="image/x-icon" href="2.jpeg">
 </head>
 <body style= "background-repeat: no-repeat;background-size: 100% 100%" background="hd.jpg" text="#ffffff">
 <title>Page Title</title>
