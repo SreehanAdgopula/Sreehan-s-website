@@ -23,7 +23,7 @@
 <center> <img src="realminecraft.jpg" width="500" height="333"> </center>
 <h2> <center> <span style="color:white"> Second favourite game is Blockman go_Bed-Wars, it is very fun to play as it is available in phones </span> </center> </h2>
 <p>
-<h2> <center> <font="white"> My favourite thing is Space!!! There are so many thing and so much to discover it. </font> </center> </h2>
+<h2> <center> <font color ="white"> My favourite thing is Space!!! There are so many thing and so much to discover it. </font> </center> </h2>
 <h2> <center> <span style="color:white"> It is my favourite subject! I know billions of thing that are in space like Gamma Rays, Super and Hyper-novas; Oort Cloud, Space wars, etc! </span> </center> </h2>
  <center> <div class="contact-me">                                                                                                                                       
             <h3 class="contact-title">Do you want to chat to me? Okay, fine, here it is!</h3>
