@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>           
-<head>
-<title> Sreehan's website!!</title>   
+<head>  
 <link rel = "icon" href = 
        "./ok.jpg">
 </head>
