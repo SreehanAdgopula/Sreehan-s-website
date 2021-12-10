@@ -48,6 +48,5 @@
   <text fill="#ffffff" font-size="35" font-family="Verdana"
   x="50" y="80">THANK YOU</text>
 </svg> </center>
-</body>
-</html>      
+     
                                                                                                                                           
