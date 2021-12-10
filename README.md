@@ -22,7 +22,6 @@
 <h2> <center> <span style="color:purple"> I play modded games like modded minecraft, my favourite game. </span> </center> </h2>
 <h2> <center> <span style="color:orchid"> In that game, it mostly looks kink of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the below image. And just igore the clouds because they only come in mods  </span> </center> </h2>
 <center> <img src="realminecraft.jpg" width="500" height="333"> </center>
-<center> <font size="12"> &#128525 &#128151 </font> </center>
 <h2> <center> <span style="color:yellow"> Second favourite game is Blockman go_Bed-Wars, it is very fun to play as it is available in phones </span> </center> </h2>
 <p>
 <h2> <center> My faourite thing is Space!!! There are so many thing and so much to discover it. </center> </h2>
