@@ -29,9 +29,9 @@
 <center> <div class="contact-me">                                                                                                                                       
             <h3 class="contact-title">Do you want to chat to me? Okay, fine, here it is!</h3>
             <p class="contact-message">Email here!</p>
-            <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a
+       <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a>
           </div> 
-                </center> <p>
+          </center> <p>
 </p>
 <hr align="center" size="6" width="90%" Color="yellow">              
  <span style="color:blue"> <h2> <center> A fun fact!=In another billion years, our Milky Way will collide with the Andromeda Galaxy and form (Andro-Way) or (Milkymeda)!?!? </center> </h2> </span> 
