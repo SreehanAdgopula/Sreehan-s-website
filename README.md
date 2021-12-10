@@ -17,7 +17,7 @@
 <button type="button" onclick="myFunction()">Try it</button> </center>
 <hr size="10">
 <h2 align="center"> <span style="color:red"> I'm a programmer! </span> </h2><center> <font size ="12"> &#128512;</font> </center>
-<h2> <center> <span style="color:orange"> I do programming like Python, QBASIC, HTML etc. </span> </h2> </center>
+<h2> <center> <span style="color:orange"> I do programming like Python, QBASIC, HTML etc. </span> </center> </h2>
 <p>
 <h2> <center> <span style="color:purple"> I play modded games like modded minecraft, my favourite game. </span> </center> </h2>
 <h2> <center> <span style="color:orchid"> In that game, it mostly looks kink of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the below image. And just igore the clouds because they only come in mods  </span> </center> </h2>
