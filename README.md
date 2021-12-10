@@ -15,7 +15,7 @@
 <p id="demo">Click this button so that I can say something!</p>
 <button type="button" onclick="myFunction()">Try it</button> </center>
 <hr size="10">
-<h2 align="center"> <span style="color:white"> I'm a programmer! </span> </h2><center> <font size ="12"> &#128512;</font> </center>
+<b> <h2 align="center"> <span style="color:white"> I'm a programmer! </span> </h2><center> <font size ="12"> </b> &#128512; <b> </font> </center>
 <h2> <center> <span style="color:white"> I do programming like Python, QBASIC, HTML etc. </span> </center> </h2>
 <p>
 <h2> <center> <span style="color:white"> I play modded games like modded minecraft, my favourite game. </span> </center> </h2>
