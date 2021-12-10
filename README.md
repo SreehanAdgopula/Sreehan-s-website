@@ -30,14 +30,10 @@
             <h3 class="contact-title">Do you want to chat to me? Okay, fine, here it is!</h3>
             <p class="contact-message">Email here!</p>
             <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a
-          </div> </center> <p>
+          </div> 
+                </center> <p>
 </p>
-<hr align="center" size="6" width="90%" Color="yellow"> 
-<center> <h2> If you get anything on the iframe like "It may have been moved, edited, or deleted." this, then click "My Colock" below </h2> </center>
-<iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
-
-<p><a href="clock.html" target="iframe_a"> <center> My Clock </center> </a></p>
-<center> <h2> The above iframe is a clock that shows you the right time (even seconds!) </h2> </center>                 
+<hr align="center" size="6" width="90%" Color="yellow">              
  <span style="color:blue"> <h2> <center> A fun fact!=In another billion years, our Milky Way will collide with the Andromeda Galaxy and form (Andro-Way) or (Milkymeda)!?!? </center> </h2> </span> 
 <center> <svg height="200" width="500">
   <defs>
