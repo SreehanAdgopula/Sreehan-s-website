@@ -5,7 +5,7 @@
 </head>
 <body style= "background-repeat: no-repeat;background-size: 100% 100%" background="hd.jpg" text="#ffffff">
 <title>Page Title</title>
-<div style="border: 4px solid purple"> <h1 align="center"> <span style="color:maroon"> Hi, I'm SREEHAN!! </span> </h1> </div>
+<b> <div style="border: 4px solid purple"> <h1 align="center"> <span style="color:white"> Hi, I'm SREEHAN!! </span> </h1> </div>
 <span style ="color:white"> <h2> <center> Welcome to my website! </center> </h2> </span>
 <center> <script>
   function myFunction() {
@@ -45,7 +45,7 @@
   </defs>
   <ellipse cx="100" cy="70" rx="85" ry="55" fill="url(#grad1)" />
   <text fill="#ffffff" font-size="35" font-family="Verdana"
-  x="50" y="80">THANK YOU</text>
+        x="50" y="80">THANK YOU</text> </b>
 </svg> </center>
      
                                                                                                                                           
