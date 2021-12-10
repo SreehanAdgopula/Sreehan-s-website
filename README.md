@@ -26,9 +26,9 @@
 <p>
 <h2> <center> My faourite thing is Space!!! There are so many thing and so much to discover it. </center> </h2>
 <h2> <center> <span style="color:pink"> It is my favourite subject! I know billions of thing that are in space like Gamma Rays, Super and Hyper-novas; Oort Cloud, Space wars, etc! </span> </center> </h2>
-<font="yellow"> <center> <div class="contact-me">                                                                                                                                       
+ <center> <div class="contact-me">                                                                                                                                       
             <h3 class="contact-title">Do you want to chat to me? Okay, fine, here it is!</h3>
-       <p class="contact-message">Email here!</p> </font>
+       <p class="contact-message">Email here!</p>
        <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a>
           </div> 
           </center> <p>
