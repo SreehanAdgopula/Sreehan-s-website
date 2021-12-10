@@ -29,8 +29,7 @@
 <center> <div class="contact-me">                                                                                                                                       
             <h3 class="contact-title">Do you want to chat to me? Okay, fine, here it is!</h3>
             <p class="contact-message">Email here!</p>
-            <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a> 
-          </div>
+            <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a
           </div> </center> <p>
 </p>
 <hr align="center" size="6" width="90%" Color="yellow"> 
