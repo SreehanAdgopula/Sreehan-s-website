@@ -1,7 +1,7 @@
 <html>           
 <head>  
 <link rel = "icon" href = 
-       "./ok.jpg">
+       "ok.jpg">
 </head>
 <body style= "background-repeat: no-repeat;background-size: 100% 100%" background="hd.jpg" text="#0000ff">
 <title>Page Title</title>
