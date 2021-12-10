@@ -40,7 +40,7 @@
 <center> <h2> If you get anything on the iframe like "It may have been moved, edited, or deleted." this, then click "My Colock" below </h2> </center>
 <iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
 
-<p><a href="file:///C:/ASRN_Work/Sreehan_Work/HTML/clock.html" target="iframe_a"> <center> My Clock </center> </a></p>
+<p><a href="clock.html" target="iframe_a"> <center> My Clock </center> </a></p>
 <center> <h2> The above iframe is a clock that shows you the right time (even seconds!) </h2> </center>                 
  <span style="color:blue"> <h2> <center> A fun fact!=In another billion years, our Milky Way will collide with the Andromeda Galaxy and form (Andro-Way) or (Milkymeda)!?!? </center> </h2> </span> 
 <center> <svg height="200" width="500">
