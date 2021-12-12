@@ -48,6 +48,6 @@
   <center> <div class="bio link">
  <a class="btn" href="https://bio.link/sreehanadigopula">My Bio link! </a>
   </div>
-          </div> </center> 
+           </center> 
  </svg> </center>
                                                                                                                                    
