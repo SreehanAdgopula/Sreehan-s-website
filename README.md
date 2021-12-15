@@ -1,6 +1,6 @@
 <html>           
 <head>  
- <link rel="icon" type="image/x-icon" href="/Sreehan-s-website/favicon.ico">
+ <link rel="icon" type="image/x-icon" href="/Sreehan-s-website/Untitled.jpg">
 </head>
 <body style= "background-repeat: no-repeat;background-size: 100% 100%" background="hd.jpg" text="#ffffff">
 <title>Page Title</title>
