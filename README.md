@@ -180,7 +180,6 @@ input[type=submit]:hover {
     <input type="sumbit" value="Submit">
   </div>
   </form>
-</div>
   <center> <div class="bio link">
  <a class="btn" href="https://bio.link/sreehanadigopula">My Bio link! </a>
   </div>
