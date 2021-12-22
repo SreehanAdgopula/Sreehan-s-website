@@ -137,7 +137,7 @@ input[type=submit]:hover {
 <body>
 
 <div class="container">
-  <form action="https://formsubmit.co/el/lewodo" method="POST">
+  <form action="https://formsubmit.co/asreehan@outlook.com" method="POST">
    <input type="hidden" name="_next" value="https://sreehanadgopula.github.io/Thank-you/">
   <div class="row">
     <div class="col-25">
