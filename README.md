@@ -136,7 +136,6 @@ input[type=submit]:hover {
 </style>
 <body>
 
-
 <div class="container">
   <form action="/action_page.php">
   <div class="row">
@@ -164,7 +163,7 @@ input[type=submit]:hover {
         <option value="australia">Australia</option>
         <option value="canada">Canada</option>
         <option value="usa">USA</option>
-       <option value="india">India</option>
+        <option value="india">India</option>
       </select>
     </div>
   </div>
@@ -178,9 +177,10 @@ input[type=submit]:hover {
   </div>
   <br>
   <div class="row">
-    <input type="sumbit" value="Submit">
+    <input type="submit" value="Submit">
   </div>
   </form>
+</div>
   <center> <div class="bio link">
  <a class="btn" href="https://bio.link/sreehanadigopula">My Bio link! </a>
   </div>
