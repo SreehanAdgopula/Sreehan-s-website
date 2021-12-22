@@ -1,6 +1,11 @@
 <html>           
 <head> 
  <style>
+h2 {
+  text-shadow: 2px 2px red;
+}
+</style>
+ <style>
 p {outline-color:blue;}
 
 p.dotted {outline-style: dotted;}
