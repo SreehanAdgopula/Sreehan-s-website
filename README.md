@@ -1,5 +1,14 @@
 <html>           
 <head> 
+ <style>
+p {outline-color:blue;}
+
+p.dotted {outline-style: dotted;}
+p.dashed {outline-style: dashed;}
+p.solid {outline-style: solid;}
+p.double {outline-style: double;}
+p.groove {outline-style: groove;}
+ </style>
  <link rel="icon" type="image/x-icon" href="/Sreehan-s-website/Untitled.jpg">
 </head>
 <body style= "background-repeat: no-repeat;background-size: 100% 100%;background-attachment: fixed;" background="hd.jpg" text="#ffffff">
@@ -14,15 +23,15 @@
 <p id="demo">Click this button so that I can say something!</p>
 <button type="button" onclick="myFunction()">Try it</button> </center>
 <hr size="10">
-  <h2 align="center"> <span style="color:white"> I'm a programmer! </span> </h2><center> <font size ="12">  &#128512; </font> </center>
-<h2> <center> <span style="color:white"> I do programming like Python, QBASIC, HTML etc. </span> </center> </h2>
+<p class="dotted">  <h2 align="center"> <span style="color:white"> I'm a programmer! </span> </h2><center> <font size ="12">  &#128512; </font> </center>
+<h2> <center> <span style="color:white"> I do programming like Python, QBASIC, HTML etc. </span> </center> </h2></p>
 <p>
-<h2> <center> <span style="color:white"> I play modded games like modded minecraft, my favourite game. </span> </center> </h2>
-<h2> <center> <span style="color:white"> In that game, it mostly looks kind of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the below image. And just ignore the clouds because they only come in mods  </span> </center> </h2>
+<p class="dashed"> <h2> <center> <span style="color:white"> I play modded games like modded minecraft, my favourite game. </span> </center> </h2>
+ <h2> <center> <span style="color:white"> In that game, it mostly looks kind of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the below image. And just ignore the clouds because they only come in mods  </span> </center> </h2></p>
 <center> <img src="realminecraft.jpg" width="500" height="333"> </center>
-<h2> <center> <span style="color:white"> Second favourite game is Blockman go_Bed-Wars, it is very fun to play as it is available in phones </span> </center> </h2>
+<p class="solid"> <h2> <center> <span style="color:white"> Second favourite game is Blockman go_Bed-Wars, it is very fun to play as it is available in phones </span> </center> </h2>
 <p> <h2> <center> <font color ="white"> My favourite thing is Space!!! There are so many thing and so much to discover it. </font> </center> </h2>
-<h2> <center> <span style="color:white"> It is my favourite subject! I know billions of thing that are in space like Gamma Rays, Super and Hyper-novas; Oort Cloud, Space wars, etc! </span> </center> </h2> 
+<h2> <center> <span style="color:white"> It is my favourite subject! I know billions of thing that are in space like Gamma Rays, Super and Hyper-novas; Oort Cloud, Space wars, etc! </span> </center> </h2> </p>
  <center> <div class="contact-me">                                                                                                                                       
             <h3 class="contact-title">Do you want to chat to me? Okay, fine, here it is!</h3>
        <p class="contact-message">Email here!</p>
