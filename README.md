@@ -178,6 +178,7 @@ input[type=submit]:hover {
   <br>
   <div class="row">
     <input type="submit" value="Submit">
+   <a href="mailto:asreehan@outlook.com">
   </div>
   </form>
 </div>
