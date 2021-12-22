@@ -1,6 +1,15 @@
 <html>           
 <head> 
  <style>
+img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+</style>
+ <style>
 h2 {
   text-shadow: 2px 2px 5px red;
 }
