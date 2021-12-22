@@ -68,6 +68,7 @@ p.groove {outline-style: groove;}
   <text fill="#ffffff" font-size="35" font-family="Verdana"
         x="50" y="80">THANK YOU</text> </b>
  <center> <h3> Want to chat with me directly? ok then, here it is </h3> </center>
+ </svg> </center>
  <style>
 * {
   box-sizing: border-box;
@@ -133,7 +134,6 @@ input[type=submit]:hover {
   }
 }
 </style>
-</head>
 <body>
 
 
@@ -177,7 +177,7 @@ input[type=submit]:hover {
   </div>
   <br>
   <div class="row">
-    <input type="submit" value="Submit">
+    <input type="asreehan@outlook.com" value="Submit">
   </div>
   </form>
 </div>
@@ -185,5 +185,5 @@ input[type=submit]:hover {
  <a class="btn" href="https://bio.link/sreehanadigopula">My Bio link! </a>
   </div>
            </center> 
- </svg> </center>
+ 
                                                                                                                                    
