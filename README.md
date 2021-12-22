@@ -2,7 +2,7 @@
 <head> 
  <style>
 h2 {
-  text-shadow: 2px 2px red;
+  text-shadow: 2px 2px 5px red;
 }
 </style>
  <style>
