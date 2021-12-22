@@ -2,7 +2,7 @@
 <head>  
  <link rel="icon" type="image/x-icon" href="/Sreehan-s-website/Untitled.jpg">
 </head>
-<body style= "background-repeat: no-repeat;background-size: 100% 100%" background="hd.jpg" text="#ffffff">
+<body style= "background-repeat: no-repeat;background-size: 100% 100%;background-attachment: fixed;" background="hd.jpg" text="#ffffff">
 <title>Page Title</title>
 <b> <div style="border: 4px solid purple"> <h1 align="center"> <span style="color:white"> Hi, I'm SREEHAN!! </span> </h1> </div>
        <span style ="color:white"> <h2> <center> Welcome to my website! </center> </h2> </span> 
