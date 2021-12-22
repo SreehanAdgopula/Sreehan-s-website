@@ -177,7 +177,7 @@ input[type=submit]:hover {
   </div>
   <br>
   <div class="row">
-    <input type="asreehan@outlook.com" value="Submit">
+    <input type="sumbit" value="Submit">
   </div>
   </form>
 </div>
