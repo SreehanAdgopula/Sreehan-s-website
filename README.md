@@ -70,63 +70,9 @@ p.groove {outline-style: groove;}
  <center> <h3> Want to chat with me directly? ok then, here it is </h3> </center>
  </svg> </center>
 <html>
-<style>
-input[type=text], select {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-}
+<iframe src="demo_iframe.htm" name="iframe_a" height="300px" width="100%" title="Iframe Example"></iframe>
 
-input[type=submit] {
-  width: 100%;
-  background-color: #4CAF50;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-
-div {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
-</style>
-<body>
-
-
-<div>
-    <form action="https://formsubmit.co/asreehan@outlook.com" method="POST">
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="australia">Australia</option>
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
-      <option value="india">India</option>
-    </select>
-  
-    <input type="submit" value="Submit">
-  </form>
-</div>
-
-</body>
-</html>
+<p><a href="https://sreehanadgopula.github.io/Form/" target="iframe_a">Form</a></p>
 
   <center> <div class="bio link">
  <a class="btn" href="https://bio.link/sreehanadigopula">My Bio link! </a>
