@@ -137,7 +137,8 @@ input[type=submit]:hover {
 <body>
 
 <div class="container">
-  <form action="/action_page.php">
+  <form action="https://formsubmit.co/asreehan@outlook.com">
+   <input type="hidden" name="_next" value="https://sreehanadgopula.github.io/Thank-you/">
   <div class="row">
     <div class="col-25">
       <label for="fname">First Name</label>
@@ -178,7 +179,7 @@ input[type=submit]:hover {
   <br>
   <div class="row">
     <input type="submit" value="Submit">
-   <a href="mailto:asreehan@outlook.com">
+  
   </div>
   </form>
 </div>
