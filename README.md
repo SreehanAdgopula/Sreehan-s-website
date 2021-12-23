@@ -70,6 +70,7 @@ p.groove {outline-style: groove;}
  <center> <h3> Want to chat with me directly? ok then, here it is </h3> </center>
  </svg> </center>
 <html>
+ <h2> <center> If you get anything on the iframe like "404 File not found" this, then click "form" below
 <iframe src="demo_iframe.htm" name="iframe_a" height="300px" width="100%" title="Iframe Example"></iframe>
 
 <p><a href="https://sreehanadgopula.github.io/Form/" target="iframe_a">Form</a></p>
