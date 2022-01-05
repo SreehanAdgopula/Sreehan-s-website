@@ -23,7 +23,7 @@ p.solid {outline-style: solid;}
 p.double {outline-style: double;}
 p.groove {outline-style: groove;}
  </style>
- <link rel="icon" type="image/x-icon" href="/Sreehan-s-website/Untitled.jpg">
+ <link rel=shortcut icon type=imagex-icon href=Sreehan-s-websitefavicon.ico>
 </head>
 <body style= "background-repeat: no-repeat;background-size: 100% 100%;background-attachment: fixed;" background="hd.jpg" text="#ffffff">
 <title>Page Title</title>
