@@ -33,12 +33,10 @@ p.groove {outline-style: groove;}
 <p class="dotted">  <h2 align="center"> <span style="color:white"> I'm a programmer! </span> </h2><center> <font size ="12">  &#128512; </font> </center>
 <h2> <center> <span style="color:white"> I do programming like Python, QBASIC, HTML etc. </span> </center> </h2></p>
 <p>
-<p class="dashed"> <h2> <center> <span style="color:white"> I play modded games like modded minecraft, my favourite game. </span> </center> </h2>
- <h2> <center> <span style="color:white"> In that game, it mostly looks kind of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the below image. And just ignore the clouds because they only come in mods  </span> </center> </h2></p>
 <center> <div class="flip-box">
   <div class="flip-box-inner">
     <div class="flip-box-front">
-      <img src="img_paris.jpg" alt="realminecraft.jpg" style="width:300px;height:200px">
+      <img src="realminecraft.jpg" alt="realminecraft.jpg" style="width:300px;height:200px">
     </div>
     <div class="flip-box-back">
       <h2> Realistic Minecarft </h2>
