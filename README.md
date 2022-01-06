@@ -1,105 +1,8 @@
 <html>           
 <head> 
- <style>
-body {font-family: Arial, Helvetica, sans-serif;}
-
-#myImg {
-  border-radius: 5px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-#myImg:hover {opacity: 0.7;}
-
-/* The Modal (background) */
-.modal {
-  display: none; /* Hidden by default */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
-  left: 0;
-  top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
-}
-
-/* Modal Content (image) */
-.modal-content {
-  margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
-}
-
-/* Caption of Modal Image */
-#caption {
-  margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
-  text-align: center;
-  color: #ccc;
-  padding: 10px 0;
-  height: 150px;
-}
-
-/* Add Animation */
-.modal-content, #caption {  
-  -webkit-animation-name: zoom;
-  -webkit-animation-duration: 0.6s;
-  animation-name: zoom;
-  animation-duration: 0.6s;
-}
-
-@-webkit-keyframes zoom {
-  from {-webkit-transform:scale(0)} 
-  to {-webkit-transform:scale(1)}
-}
-
-@keyframes zoom {
-  from {transform:scale(0)} 
-  to {transform:scale(1)}
-}
-
-/* The Close Button */
-.close {
-  position: absolute;
-  top: 15px;
-  right: 35px;
-  color: #f1f1f1;
-  font-size: 40px;
-  font-weight: bold;
-  transition: 0.3s;
-}
-
-.close:hover,
-.close:focus {
-  color: #bbb;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-/* 100% Image Width on Smaller Screens */
-@media only screen and (max-width: 700px){
-  .modal-content {
-    width: 100%;
-  }
-}
-</style>
  <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
- <style>
-img {
-  opacity: 0.5;
-}
-
-img:hover {
-  opacity: 1.0;
-}
-</style>
+ 
  <style>
 h2 {
   text-shadow: 2px 2px 5px red;
@@ -132,12 +35,22 @@ p.groove {outline-style: groove;}
 <p>
 <p class="dashed"> <h2> <center> <span style="color:white"> I play modded games like modded minecraft, my favourite game. </span> </center> </h2>
  <h2> <center> <span style="color:white"> In that game, it mostly looks kind of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the below image. And just ignore the clouds because they only come in mods  </span> </center> </h2></p>
-<center> <img src="realminecraft.jpg" width="500" height="333"> </center>
+<center> <div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="img_paris.jpg" alt="realminecraft.jpg" style="width:300px;height:200px">
+    </div>
+    <div class="flip-box-back">
+      <h2> Realistic Minecarft </h2>
+      <p>In that game, it mostly looks kind of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the below image. And just ignore the clouds because they only come in mods</p>
+    </div>
+  </div>
+</div> </center>
  <i class="fas fa-cloud" style="font-size:24px;"></i>
 <p class="solid"> <h2> <center> <span style="color:white"> Second favourite game is Blockman go_Bed-Wars, it is very fun to play as it is available in phones </span> </center> </h2>
 <p> <h2> <center> <font color ="white"> My favourite thing is Space!!! There are so many thing and so much to discover it. </font> </center> </h2>
 <h2> <center> <span style="color:white"> It is my favourite subject! I know billions of thing that are in space like Gamma Rays, Super and Hyper-novas; Oort Cloud, Space wars, etc! </span> </center> </h2> </p>
-         <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a>
+        <center> <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a> </center>
      
           <p>
 </p>
