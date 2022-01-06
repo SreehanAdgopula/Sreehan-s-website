@@ -137,13 +137,9 @@ p.groove {outline-style: groove;}
 <p class="solid"> <h2> <center> <span style="color:white"> Second favourite game is Blockman go_Bed-Wars, it is very fun to play as it is available in phones </span> </center> </h2>
 <p> <h2> <center> <font color ="white"> My favourite thing is Space!!! There are so many thing and so much to discover it. </font> </center> </h2>
 <h2> <center> <span style="color:white"> It is my favourite subject! I know billions of thing that are in space like Gamma Rays, Super and Hyper-novas; Oort Cloud, Space wars, etc! </span> </center> </h2> </p>
- 
-        <h2>Sreehan Adigopula</h2>
-        <p class="title">Programmer</p>
-        <p>I like doing coding because it is fun and teaches how to make Programms.</p>
-        <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a>
+         <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a>
      
-          </center> <p>
+          <p>
 </p>
 <hr align="center" size="6" width="90%" Color="yellow">              
  <span style="color:white"> <h2> <center> A fun fact!=In another billion years, our Milky Way will collide with the Andromeda Galaxy and form (Andro-Way) or (Milkymeda)!?!? </center> </h2> </span>
