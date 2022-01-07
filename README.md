@@ -40,7 +40,7 @@ p.groove {outline-style: groove;}
     </div>
     <div class="flip-box-back">
       <h2> Realistic Minecarft </h2>
-      <p>In that game, it mostly looks kind of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the below image. And just ignore the clouds because they only come in mods</p>
+      <p>In that game, it mostly looks kind of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the above image. And just ignore the clouds because they only come in mods</p>
     </div>
   </div>
 </div> </center>
