@@ -43,7 +43,7 @@ p.groove {outline-style: groove;}
       </div>
   </div>
 </div> </center>
-      <p>In that game, it mostly looks kind of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the above image. And just ignore the clouds because they only come in mods</p>
+<center>      <p>In that game, it mostly looks kind of normal, but when you add Nvidia RTX graphics card to it , Minecraft looks very realistic.(looks how everything is in real life)!! Like in the above image. And just ignore the clouds because they only come in mods</p> </center>
    
  <i class="fas fa-cloud" style="font-size:24px;"></i>
 <p class="solid"> <h2> <center> <span style="color:white"> Second favourite game is Blockman go_Bed-Wars, it is very fun to play as it is available in phones </span> </center> </h2>
