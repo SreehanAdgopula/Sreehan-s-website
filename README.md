@@ -33,6 +33,7 @@ p.groove {outline-style: groove;}
 <p class="dotted">  <h2 align="center"> <span style="color:white"> I'm a programmer! </span> </h2><center> <font size ="12">  &#128512; </font> </center>
 <h2> <center> <span style="color:white"> I do programming like Python, QBASIC, HTML etc. </span> </center> </h2></p>
 <p>
+ <h2> <center> <span style="color:white"> I play modded games like modded minecraft, my favourite game. </span> </center> </h2>
 <center> <div class="flip-box">
   <div class="flip-box-inner">
     <div class="flip-box-front">
