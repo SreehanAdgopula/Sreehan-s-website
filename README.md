@@ -2,7 +2,12 @@
 <head> 
  <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
- 
+ <style>
+  .fa-github {
+  background: #000000;
+  color: white;
+}
+</style>
  <style>
 h2 {
   text-shadow: 2px 2px 5px red;
@@ -51,7 +56,7 @@ p.groove {outline-style: groove;}
 <p> <h2> <center> <font color ="white"> My favourite thing is Space!!! There are so many thing and so much to discover it. </font> </center> </h2>
 <h2> <center> <span style="color:white"> It is my favourite subject! I know billions of thing that are in space like Gamma Rays, Super and Hyper-novas; Oort Cloud, Space wars, etc! </span> </center> </h2> </p>
         <center> <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a> </center>
-     
+     <a href="https://github.com/SreehanAdgopula" target="_blank" class="fa fa-github"></a>
           <p>
 </p>
 <hr align="center" size="6" width="90%" Color="yellow">              
